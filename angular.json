@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ang01-lista"
+  "defaultProject": "ang01-lista",
+  "cli": {
+    "analytics": "eb605a48-637a-453e-ae92-b76b80bd437f"
+  }
 }
